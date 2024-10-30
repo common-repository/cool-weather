@@ -1,0 +1,13 @@
+#coolweather_container {
+    background-color: #F9FBFC;
+    border: 0px solid #C3CED9;
+    width: 188px;
+    font-size: 12px;
+}
+#coolweather_hint, #coolweather_input_container {
+    padding: 12px;
+    line-height: 1.4em;
+}
+#coolweather_input {
+    width: 160px;
+}
